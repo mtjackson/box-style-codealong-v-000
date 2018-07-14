@@ -169,6 +169,7 @@ header {
   color: black; /* overrides default blue */
   text-align: center;
   border-right: 1px solid #ccc;
+  text-decoration: none;
 }
 
 /*////////// LOGO //////////*/
