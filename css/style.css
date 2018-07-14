@@ -161,8 +161,8 @@ header {
 }
 
 #navbar nav a {
-  display: inline-block;
-  
+  display: inline-block; /*links by default display inline, but that will not allow them to have a width */
+  width: 16.66666667%
 }
 
 /*////////// LOGO //////////*/
